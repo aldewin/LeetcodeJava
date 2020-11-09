@@ -1,5 +1,11 @@
 package easy;
 
+/**
+ * 268. Missing Number
+ *
+ * https://leetcode.com/problems/missing-number/
+ */
+
 public class MissingNumber {
     public static void main(String[] args) {
         System.out.println(missingNumber(new int[] {3, 0, 1}));
