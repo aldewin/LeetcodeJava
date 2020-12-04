@@ -8,7 +8,7 @@ package easy;
 
 public class ReverseInteger {
     public static void main(String[] args) {
-        System.out.println(reverse( -2147483647));
+        System.out.println(reverse(123));
     }
 
     public static int reverse(int x) {
